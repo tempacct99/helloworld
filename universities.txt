@@ -1,4 +1,0 @@
-Entry [universities,txt, 1]
-Entry [universities.txt, 2]
-Entry [universities.txt, 3]
-Entry [universities.txt, 4]
