@@ -1,0 +1,3 @@
+Entry [fruit,txt, 1]
+Entry [fruit.txt, 2]
+Entry [fruit.txt, 3]
